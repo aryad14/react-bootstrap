@@ -74,6 +74,7 @@ class ReactTags extends Component {
     onClearAll: PropTypes.func,
   };
 
+  //Test PR
   static defaultProps = {
     placeholder: DEFAULT_PLACEHOLDER,
     labelField: DEFAULT_LABEL_FIELD,
